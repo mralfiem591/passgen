@@ -7,7 +7,6 @@ A comprehensive, user-friendly password generator built with Python and Tkinter.
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -33,14 +32,6 @@ A comprehensive, user-friendly password generator built with Python and Tkinter.
 
 ---
 
-## Screenshots
-
-> _Add a screenshot of the application here for better visualization._
-
-![Password Generator Screenshot](screenshot.png)
-
----
-
 ## Requirements
 
 - Python 3.x (Tested on 3.8+)
@@ -53,22 +44,17 @@ A comprehensive, user-friendly password generator built with Python and Tkinter.
 1. **Clone or Download the Repository:**
 
    ```powershell
-   git clone https://github.com/yourusername/passgen.git
-   cd passgen
+   git clone https://github.com/mralfiem591/passgen.git
+   cd passgen/dist
    ```
 
    Or simply download the ZIP and extract it.
 
-2. **(Optional) Create a Virtual Environment:**
+2. **Run the EXE:**
 
    ```powershell
-   python -m venv venv
-   .\venv\Scripts\activate
+   passgen.exe
    ```
-
-3. **Install Dependencies:**
-
-   No external dependencies are required beyond Python and Tkinter.
 
 ---
 
@@ -77,7 +63,7 @@ A comprehensive, user-friendly password generator built with Python and Tkinter.
 1. **Run the Application:**
 
    ```powershell
-   python passgen.py
+   passgen.exe
    ```
 
 2. **Set Your Preferences:**
